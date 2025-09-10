@@ -65,7 +65,7 @@ const ContactPage = () => {
     {
       icon: Phone,
       title: "Phone",
-      value: "+1 (555) 123-4567",
+      value: "+917303910888",
       description: "Call us for immediate assistance",
     },
     {
@@ -212,7 +212,7 @@ const ContactPage = () => {
                   asChild
                 >
                   <a 
-                    href="https://wa.me/919991942787" 
+                    href="https://wa.me/917303910888" 
                     target="_blank" 
                     rel="noopener noreferrer"
                   >
